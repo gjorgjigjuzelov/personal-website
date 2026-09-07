@@ -8,6 +8,7 @@ tags:
   - open-source
   - community-event-hub
   - architecture
+  - dynamics-365CE
 category: tech
 description: Why I started Community Event Hub, what I have built during the first three live sessions, and why I decided to build the whole Power Platform project publicly.
 ---

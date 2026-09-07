@@ -22,7 +22,7 @@ export const projects: Project[] = [
       'Dataverse',
       'Vitest',
     ],
-    githubUrl: 'https://github.com/gjuzel99/reusable-pcf-controls-react',
+    githubUrl: 'https://github.com/gjorgjigjuzelov/reusable-pcf-controls-react',
   },
   {
     title: 'Community Event Hub',
@@ -38,6 +38,6 @@ export const projects: Project[] = [
       'Power Automate',
       'Open Source',
     ],
-    githubUrl: 'https://github.com/gjuzel99/community-event-hub',
+    githubUrl: 'https://github.com/gjorgjigjuzelov/community-event-hub',
   },
 ];
