@@ -2,6 +2,7 @@
 import { typingRoles } from '../data/resume';
 import { site, withBase } from '../data/site';
 import Icon from './Icon.astro';
+import { Image } from 'astro:assets';
 
 const rolesJson = JSON.stringify(typingRoles);
 const nameParts = site.author.name.split(' ');
@@ -37,7 +38,7 @@ I enjoy writing code, exploring new technologies, thinking about software archit
       </div>
     </div>
 
-    <img class="hero-avatar" src={withBase('/img/avatar.webp')} alt={`Portrait of ${site.author.name}`} width="220" height="220" />
+    <Image class="hero-avatar" src={withBase('/img/avatar.webp')} alt={`Portrait of ${site.author.name}`} width="220" height="220" />
   </div>
 </section>
 

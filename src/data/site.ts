@@ -54,7 +54,7 @@ export const site = {
       icon: "linkedin",
     },
     email: {
-      url: "mailto:gjuzelovgjorgji@gmail.com",
+      url: "mailto:gjuzelovgjorgji@outlook.com",
       label: "Email",
       icon: "email",
     },
