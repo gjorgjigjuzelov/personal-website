@@ -35,7 +35,7 @@ export const site = {
   url: "https://gjorgjigjuzelov.com",
   author: {
     name: "Gjorgji Gjuzelov",
-    email: "gjuzelovgjorgji@gmail.com",
+    email: "gjuzelovgjorgji@outlook.com",
     location: "North Macedonia",
     /** Optional: link to a PDF résumé served from /public */
     resume: "/resume/Resume.pdf",
